@@ -39,3 +39,5 @@ else
         echo "Extracting .csv"
         unzip nyc-taxi-trip-duration.zip
 fi
+
+
