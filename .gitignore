@@ -1,3 +1,5 @@
 env/
 Data/NYC.csv
 Data/NYC_Weather_2016_2022.csv
+DataExploration.ipynb
+nyc_taxi_data.db
